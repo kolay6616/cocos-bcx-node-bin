@@ -1,6 +1,6 @@
 [中文](https://github.com/Cocos-BCX/cocos-bcx-node-bin/blob/master/README_cn.md "中文")
 
-# Overview
+# OverviewSigning up for 80 $COCOS bonus，inviting friends to earn 50 C for each sign uphttps://bounty.cocosbcx.io/?code=
 
 Binary executables for node and wallet client.
 
